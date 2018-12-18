@@ -8,13 +8,13 @@
 # Created by https://www.gitignore.io/api/unity
 
 ### Unity ###
-/src/unity/*/[Ll]ibrary/
-/src/unity/*/[Tt]emp/
-/src/unity/*/[Oo]bj/
-/src/unity/*/[Bb]uild/
-/src/unity/*/[Bb]uilds/
-/src/unity/*/Assets/AssetStoreTools*
-[Dd]esktop.ini.meta
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+Dd]esktop.ini.meta
 Thumbs.db.meta
 
 # Visual Studio cache directory
